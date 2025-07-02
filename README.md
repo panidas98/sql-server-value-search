@@ -122,7 +122,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 👨‍💻 Autor
 
-**Juan Ochoa** - INMEL INGENIERIA SAS
+**Juan Ochoa**
 
 ---
 
